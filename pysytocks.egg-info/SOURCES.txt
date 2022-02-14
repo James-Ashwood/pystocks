@@ -1,0 +1,10 @@
+README.md
+setup.py
+pystocks/__init__.py
+pystocks/classes.py
+pystocks/functions.py
+pysytocks.egg-info/PKG-INFO
+pysytocks.egg-info/SOURCES.txt
+pysytocks.egg-info/dependency_links.txt
+pysytocks.egg-info/requires.txt
+pysytocks.egg-info/top_level.txt

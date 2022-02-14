@@ -6,8 +6,6 @@ def testFunction(printOutput, successString="") -> bool:
 
     bool printOutput - should the function output anything to STDOUT
     string successString - the inputted stirng that will be displayed when the testFunction runs, if printOUtput is True
-    
-    return bool success - True for success, False for error
     """
 
     if printOutput:                                 ## If the printOutput is true
